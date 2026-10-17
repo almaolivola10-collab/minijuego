@@ -1,0 +1,14 @@
+# Configuracion de los saltos de linea
+
+* text=auto
+
+# Archivos de codigo C++
+
+*.cpp text eol=lf
+*.h text eol=lf
+*.hpp text eol=lf
+
+# Archivos de documentacion
+
+*.md text eol=lf
+*.txt text eol=lf
