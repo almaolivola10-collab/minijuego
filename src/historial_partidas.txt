@@ -1,3 +1,4 @@
 1,alma,Papel,Piedra,Victoria
 2,juana,Papel,Piedra,Victoria
 3,lucas,Tijera,Papel,Victoria
+1,alma,Papel,Papel,Empate
